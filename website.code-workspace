@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../website"
+		},
+		{
+			"path": "../../../Music/TEST"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SASHS"
+	}
+}

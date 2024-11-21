@@ -1,0 +1,234 @@
+
+
+body{
+    background:linear-gradient(to top, #31511E, #859F3D, #859F3D, #F6FCDF, #F6FCDF,#F6FCDF) 
+}
+
+html, body{
+    background:linear-gradient(to bottom, #F6FCDF,#859F3D);
+        margin: 0px;
+        padding: 0px;
+    overflow: auto;
+    }
+    
+
+#tt2{
+font-size: 35px;
+width: 115rem;
+position:relative;
+right:22rem;
+bottom:280px;
+
+}
+#MIS{
+    text-align: justify;
+    font-size: 25px;
+}
+#VIS{
+    padding:0;
+    text-align: justify;
+    font-size: 25px;
+    position:relative;
+    bottom:30px;
+}
+#rrr{
+    font-size: 40px;
+}
+#eee{
+    font-size: 40px;
+}
+#noissim{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    border-radius: 30px;
+    margin-top:10rem;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    margin-bottom: 15rem;
+    position:relative;
+    top:107rem;
+    right:50px;
+    bottom:20rem;
+    
+
+}
+#noisiv{
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    border-radius: 30px;
+    margin:10rem;
+    position:relative;
+    bottom:30rem;
+    left:4rem;
+
+}
+#logo{
+    border-style:none;
+    margin-top: 4rem;
+    padding-bottom: 0;
+    position:relative;
+    bottom: 55px;
+    left: 100px;
+    
+
+}
+
+#jj{
+    border-style: solid;
+    border-radius: 3rem;
+margin-left: 2rem;
+position:relative;
+bottom:63rem;
+right:21rem;
+}
+
+#aa{
+    border-style: solid;
+    border-radius: 3rem;
+    position:relative;
+    bottom:78rem;
+    left:43rem;
+}
+
+#erm{
+    font-size: 4rem;
+    position:relative;
+
+}
+
+#rahh{
+   border-style:solid;
+   border-radius: 15px;
+   background-color:#5c741b;
+   width:100rem;
+   position:relative;
+bottom:75rem;
+left:7rem;
+
+}
+
+#desc{
+    font-family:'Segoe UI' ;
+    font-style:oblique;
+    font-size: 30px;
+    font-style: italic;
+    position:relative;
+    bottom:3rem;
+    right: 2rem;
+}
+
+#qqq{
+    border-style: solid;
+}
+
+h6{
+    color:rgb(0, 0, 0);
+    letter-spacing:5px;
+    position:relative;
+    right: 37rem;
+bottom:230px;
+}
+
+.dropdown button{
+    cursor: pointer;
+    }
+
+    .dropdown a{
+        position:relative;
+        top:90px;
+        font-size:20px;
+        font-family:sans-serif;
+display:block;
+color:black;
+padding:10px 15px;
+text-decoration: none;
+    }
+
+
+button{
+    cursor: pointer;
+font-size:20px;
+background-color:#000000;
+border-radius:5px;
+border:none;
+padding:15px;
+position:relative;
+left:19rem;
+top:65px;
+bottom:100px;
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.16),
+0 3px 6px rgba(0, 0, 0, 0.1);
+color:rgb(255, 255, 255);
+transition: 0.3s ease all;
+z-index: 1;
+}
+
+button:before{
+    transition: 0.5s all ease;
+    background-color: rgb(255, 255, 255);
+    z-index: -1;
+}
+
+button:hover, button:focus {
+    color:#0edd0e;
+}
+
+button:hover:before, button:focus:before {
+    transition: 0.5s all ease;
+    left: 0;
+    right: 0;
+    opacity: 1;
+}
+ 
+button:active{
+    transform:scale(0.9);
+}
+
+nav{
+    border-left: 40rem;
+    position:relative;
+    top:20rem;
+    right:15rem;
+}
+
+ul{
+    width:140rem;
+position:relative;
+bottom:350px;
+left:10rem;
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+}
+
+.navbar a{
+font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+    display:block;
+    position:relative;
+    left: 30rem;
+}
+
+.navbar a:hover{ 
+    transition-duration:0.5s;
+    background-color:rgb(163, 163, 163) ;
+
+}
+
+.navbar li{
+    
+float: left;
+}
+
+
+
+
+
+
+

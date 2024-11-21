@@ -1,0 +1,99 @@
+
+
+
+html, body{
+    background-color: black;
+    width: 100%;
+    height: 130%;
+    overflow:scroll;
+}
+
+#err{
+    position:relative;
+    left:10rem;
+    top:1rem;
+}
+
+#sashs  {
+    color:white;
+    width: 100rem;
+    font-size: 2rem;
+    position:relative;
+    bottom: 1rem;
+    right:26rem;
+}
+
+h6{
+    color:white;
+    width: 40rem;
+    letter-spacing:5px;
+    position:relative;
+    top:2rem;
+    right:3rem;
+    bottom:1rem;
+}
+
+nav{
+    width: 140rem;
+    border-left: 40rem;
+    position:relative;
+    top:10rem;
+    right:30rem;
+}
+
+ul{
+position:relative;
+bottom:8rem;
+left:10rem;
+    list-style-type: none;
+    background-color: rgb(255, 255, 255);
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+}
+
+.navbar a{
+font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 15px;
+    display:block;
+    position:relative;
+    left: 30rem;
+}
+
+.navbar a:hover{ 
+    transition-duration:0.5s;
+    background-color:rgb(163, 163, 163) ;
+
+}
+
+.navbar li{
+    
+float: left;
+}
+
+#about{
+    font-size: 3rem;
+    position:relative;
+    right:10rem;
+    top:4rem;
+}
+
+#ttt{
+    color:white;
+    font-size: 1rem;
+    position:relative;
+    top:4rem;
+    left:25rem;
+}
+
+footer{
+    border-style: none;
+    background-color: white;
+    height:20rem;
+}
+
+#link{
+    text-decoration: none;
+}
